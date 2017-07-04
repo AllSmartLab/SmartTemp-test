@@ -79,7 +79,7 @@
             android:layout_gravity="center"
             android:layout_weight="0.28"
             android:onClick="mOnClick"
-            android:text="시작" />
+            android:text="START" />
     </LinearLayout>
 
 </LinearLayout>
